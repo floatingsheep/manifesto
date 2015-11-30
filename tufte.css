@@ -255,6 +255,7 @@ blockquote > footer > .sidenote {
     font-style: normal;
     margin-top: .8rem;
     font-size: 1.5rem;
+    font-weight: bolder;
 }
 #bibliography ul {
     width: 80%;
@@ -267,9 +268,13 @@ blockquote > footer > .sidenote {
 }
 #authorship {
     margin-bottom: 0;   
+    font-size: 1.2em;
+    line-height: 1.3em;
 }
 #please-cite {
-    margin: 0 0 3rem 0;   
+    margin: 3rem 0 6rem 0; 
+    font-size: 1.2em;
+    line-height: 1.3em;
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) { a:link { background-position-y: 87%, 87%, 87%; } }
